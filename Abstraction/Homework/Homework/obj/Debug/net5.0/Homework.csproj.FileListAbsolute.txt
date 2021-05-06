@@ -1,0 +1,16 @@
+D:\Abstraction\Homework\Abstraction\Homework\Homework\bin\Debug\net5.0\Homework.exe
+D:\Abstraction\Homework\Abstraction\Homework\Homework\bin\Debug\net5.0\Homework.deps.json
+D:\Abstraction\Homework\Abstraction\Homework\Homework\bin\Debug\net5.0\Homework.runtimeconfig.json
+D:\Abstraction\Homework\Abstraction\Homework\Homework\bin\Debug\net5.0\Homework.runtimeconfig.dev.json
+D:\Abstraction\Homework\Abstraction\Homework\Homework\bin\Debug\net5.0\Homework.dll
+D:\Abstraction\Homework\Abstraction\Homework\Homework\bin\Debug\net5.0\ref\Homework.dll
+D:\Abstraction\Homework\Abstraction\Homework\Homework\bin\Debug\net5.0\Homework.pdb
+D:\Abstraction\Homework\Abstraction\Homework\Homework\obj\Debug\net5.0\Homework.csprojAssemblyReference.cache
+D:\Abstraction\Homework\Abstraction\Homework\Homework\obj\Debug\net5.0\Homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abstraction\Homework\Abstraction\Homework\Homework\obj\Debug\net5.0\Homework.AssemblyInfoInputs.cache
+D:\Abstraction\Homework\Abstraction\Homework\Homework\obj\Debug\net5.0\Homework.AssemblyInfo.cs
+D:\Abstraction\Homework\Abstraction\Homework\Homework\obj\Debug\net5.0\Homework.csproj.CoreCompileInputs.cache
+D:\Abstraction\Homework\Abstraction\Homework\Homework\obj\Debug\net5.0\Homework.dll
+D:\Abstraction\Homework\Abstraction\Homework\Homework\obj\Debug\net5.0\ref\Homework.dll
+D:\Abstraction\Homework\Abstraction\Homework\Homework\obj\Debug\net5.0\Homework.pdb
+D:\Abstraction\Homework\Abstraction\Homework\Homework\obj\Debug\net5.0\Homework.genruntimeconfig.cache
